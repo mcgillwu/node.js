@@ -1,0 +1,14 @@
+console.log("Batman glares at you.");
+
+var userAnswer = prompt("Are you feeling lucky, punk?");
+
+if ( userAnswer === "yes" ) {
+console.log("Batman hits you very hard. It's Batman and you're you! Of course Batman wins!");
+} else {
+console.log("You did not say yes to feeling lucky. Good choice! You are a winner in the game of not getting beaten up by Batman.");
+}
+
+// the error messdage poped up in 
+// http://www.codecademy.com/zh/courses/javascript-beginner-en-x9DnD/0/5?curriculum_id=506324b3a7dffd00020bf661#
+// message details :
+// 哦偶，再试试。 Did you add an if statement to your code?
