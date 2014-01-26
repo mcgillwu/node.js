@@ -12,3 +12,8 @@ console.log("You did not say yes to feeling lucky. Good choice! You are a winner
 // http://www.codecademy.com/zh/courses/javascript-beginner-en-x9DnD/0/5?curriculum_id=506324b3a7dffd00020bf661#
 // message details :
 // 哦偶，再试试。 Did you add an if statement to your code?
+// <Remedy>
+// Duplicate if-statements , the problem is resolved !
+// Why ?
+// don't know ?
+//
